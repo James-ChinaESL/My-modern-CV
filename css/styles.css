@@ -135,6 +135,7 @@ hr {
   font-family: Arial;
   position: relative;
   top: 30px;
+  fomt-size: 1.3 em;
 }
 
 .footer-link:hover {
@@ -144,6 +145,6 @@ hr {
 .footer-p {
   color: white;
   margin-top: 80px;
-  font-size: 0.8em;
+  font-size: 1em;
   font-family: Calibri;
 }
