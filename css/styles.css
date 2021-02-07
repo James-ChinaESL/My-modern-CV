@@ -1,0 +1,143 @@
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.cloud-1 {
+  position: absolute;
+  right: 20%;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 20%;
+}
+
+.skills {
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.web {
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.pizza {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+  border-color: #EAF6F6;
+  margin: 50px auto;
+}
+
+.BUTTON_IDH {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 300;
+  padding: 10px;
+  background-color: #66BFBF;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px auto 100px;
+}
+
+.BUTTON_IDH:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 200px;
+  line-height: 2;
+}
+
+.footer-link {
+  color: #11999E;
+  padding: 0 50px;
+  text-decoration: none;
+  font-family: Arial;
+  position: relative;
+  top: 30px;
+}
+
+.footer-link:hover {
+  color: white;
+}
+
+.footer-p {
+  color: white;
+  margin-top: 80px;
+  font-size: 0.8em;
+  font-family: Calibri;
+}
