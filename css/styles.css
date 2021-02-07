@@ -58,6 +58,10 @@ h3 {
   line-height: 2;
 }
 
+.row {
+  width: 100%;
+}
+
 .web {
   width: 25%;
   float: left;
@@ -73,6 +77,8 @@ h3 {
 p {
   color: #40514E;
   line-height: 2;
+  margin: auto;
+  width: 50%;
 }
 
 hr {
